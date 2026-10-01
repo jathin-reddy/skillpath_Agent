@@ -1,0 +1,19 @@
+BHARATAGENTIC — 2-MINUTE DEMO
+
+0:00–0:20 — Problem
+"Students have career goals but often do not know which skills are missing, what to learn first, or how to prove readiness."
+
+0:20–0:40 — Input
+"This learner targets Machine Learning Engineer and enters their current skills, study time and goal."
+
+0:40–1:05 — Agent reasoning
+"The agent analyzes the profile against a role-specific skill map, identifies and prioritizes gaps, and calculates a readiness score."
+
+1:05–1:30 — Action plan
+"It then converts the gaps into a 7-day execution plan with a tangible deliverable for each day."
+
+1:30–1:50 — Assessment
+"The agent also creates a micro-assessment so the learner can validate progress instead of only consuming content."
+
+1:50–2:00 — Impact
+"The key outcome is not a generic chatbot answer. It is a measurable diagnosis plus prioritized actions that move the learner toward workforce readiness."
